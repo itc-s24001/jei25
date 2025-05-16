@@ -3,6 +3,7 @@ public class D48Q27 {
         int i = 0;
         while (i <= 6) {
             System.out.print(i);
+            ++i;
         }
     }
 }
