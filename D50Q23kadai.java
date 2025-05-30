@@ -1,7 +1,7 @@
-public class D5023kadai {
+public class D50Q23kadai {
     String code;
     public static void main(String[] args) {
-        D5023kadai obj = new D5023kadai();
+        D50Q23kadai obj = new D50Q23kadai();
         obj.setCode("code");
 
         System.out.println(obj.code);
