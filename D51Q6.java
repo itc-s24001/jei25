@@ -3,7 +3,7 @@ public class D51Q6 {
         Item[] li = { new Item("AA", "魚類"), new Item("BB", "肉類") };
         Item[] si = { new Item("A1", "さば"), new Item("A2", "さんま"),
                 new Item("B1", "牛肉"), new Item("B2", "鶏肉"),
-                new Item("B3", "豚肉") };
+                new Item("B3", "豚肉"), new Item("B4", "加工肉") };
         ItemMaster im = new ItemMaster(li, si);
         String lcode = args[0].substring(0, 2);
         String scode = args[0].substring(2, 4);
